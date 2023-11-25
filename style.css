@@ -1,7 +1,7 @@
 #img1 {
             position: relative;
             margin:10%;
-           
+
 }
 
 
@@ -10,4 +10,11 @@
             margin:10%;
             display: none;
 
+}
+
+noscript {
+
+  position:relative;
+  left: 2%;
+  font-weight: bold;
 }
